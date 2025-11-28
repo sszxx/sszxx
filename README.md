@@ -10,7 +10,6 @@
 
 - 🗿 Developer focused on **C** & **Python**
 - 🔧 Interested in **low-level systems**, tooling, and automation  
-- 🌀 Writing clean, efficient, and minimal code  
 - 📚 Constantly learning deeper system internals  
 
 ---
@@ -22,8 +21,6 @@
   <img src="https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/Lua-333?style=for-the-badge&logo=lua&logoColor=2C2D72" />
   <img src="https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=css3&logoColor=1572B6" />
 </p>
 
 ---
@@ -73,5 +70,4 @@
 
 <p align="center">
   <b>Thanks for visiting ✨</b><br>
-  <i>Minimal code. Maximum impact.</i>
 </p>
